@@ -27,3 +27,6 @@ nbdist/
 ######################
 .DS_Store
 .DS_Store?
+
+# Selenium driver
+Driver/
